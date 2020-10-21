@@ -1,0 +1,25 @@
+{
+  "name": "webex-sample-bot",
+  "version": "1.0.0",
+  "description": "simple webex bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nit-1997/Webex-Sample-Bot.git"
+  },
+  "author": "nitin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nit-1997/Webex-Sample-Bot/issues"
+  },
+  "homepage": "https://github.com/Nit-1997/Webex-Sample-Bot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "webex-node-bot-framework": "^2.3.0"
+  }
+}
